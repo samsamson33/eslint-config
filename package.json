@@ -1,0 +1,21 @@
+{
+	"name": "@samsamson33/eslint-config",
+	"version": "0.0.0",
+	"description": "My personal (and highly opinionated) eslint configuration",
+	"main": "index.js",
+	"keywords": [
+		"eslint",
+		"config",
+		"eslint-config"
+	],
+	"author": "Samsamson33",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^7.8.1"
+	},
+	"peerDependencies": {
+		"@typescript-eslint/eslint-plugin": "^4.0.1",
+		"@typescript-eslint/parser": "^4.0.1",
+		"eslint": "^7.8.1"
+	}
+}
